@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f30bd215-47bf-4a64-b6f4-43c1f6283774" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="E:\PHP\php-8.2.7\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2TQeoOQBQneCeXsBioA5p7uwPtG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/n.pongsuwan/Downloads/twitch-dark-theme-jetbrains.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;c35aad99-0922-48eb-9393-0e2540368d31&quot;,
+      &quot;c35aad99-0922-48eb-9393-0e2540368d31/schema/\&quot;articles_db\&quot;&quot;,
+      &quot;0125ac1e-d5fb-4a64-a512-b74f256a9a6f/schema/\&quot;webnetz_db\&quot;&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\web\images\captcha" />
+      <recent name="C:\xampp\htdocs\web\images" />
+      <recent name="C:\xampp\htdocs\web" />
+      <recent name="C:\xampp\htdocs\template\mimeTypes" />
+      <recent name="C:\xampp\htdocs\web\mimeTypes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.session.sql">
+    <configuration name="articles" type="DatabaseScript" editBeforeRun="true" temporary="true">
+      <script-file value="$PROJECT_DIR$/app/mysql.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="session.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/app/session.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="0125ac1e-d5fb-4a64-a512-b74f256a9a6f" namespace="schema/&quot;webnetz_db&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/template/index.html.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/mysql.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.session.sql" />
+        <item itemvalue="Database Script.articles" />
+        <item itemvalue="Database Script.mysql.sql" />
+        <item itemvalue="PHP Script.mysql.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30bd215-47bf-4a64-b6f4-43c1f6283774" name="Changes" comment="" />
+      <created>1690979906475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690979906475</updated>
+      <workItem from="1690979908035" duration="10935000" />
+      <workItem from="1691000218488" duration="59000" />
+      <workItem from="1691000344126" duration="5216000" />
+      <workItem from="1691015575701" duration="4127000" />
+      <workItem from="1691042616364" duration="32829000" />
+      <workItem from="1691086340555" duration="7097000" />
+      <workItem from="1691129427702" duration="3349000" />
+      <workItem from="1691135627434" duration="6396000" />
+      <workItem from="1691142041855" duration="1558000" />
+      <workItem from="1691144716412" duration="15427000" />
+      <workItem from="1691229778256" duration="626000" />
+      <workItem from="1691231107539" duration="21083000" />
+      <workItem from="1691388156476" duration="29074000" />
+      <workItem from="1691473995333" duration="28720000" />
+      <workItem from="1691512438352" duration="525000" />
+      <workItem from="1691513070445" duration="7858000" />
+      <workItem from="1691560475377" duration="30213000" />
+      <workItem from="1691603443923" duration="1222000" />
+      <workItem from="1691611235636" duration="16096000" />
+      <workItem from="1691648830966" duration="3471000" />
+      <workItem from="1691652387583" duration="20223000" />
+      <workItem from="1691713004559" duration="3566000" />
+      <workItem from="1691735027744" duration="25455000" />
+      <workItem from="1691770591580" duration="2230000" />
+      <workItem from="1691774208422" duration="24000" />
+      <workItem from="1691774253138" duration="750000" />
+      <workItem from="1691775032019" duration="51000" />
+      <workItem from="1691775099511" duration="301000" />
+      <workItem from="1691775421810" duration="1792000" />
+      <workItem from="1691839911052" duration="6382000" />
+      <workItem from="1691992701133" duration="3219000" />
+      <workItem from="1691995951567" duration="1126000" />
+      <workItem from="1692033355096" duration="15365000" />
+      <workItem from="1692079064036" duration="28485000" />
+      <workItem from="1692165873191" duration="27085000" />
+      <workItem from="1692252090101" duration="49000" />
+      <workItem from="1692252155716" duration="28242000" />
+      <workItem from="1692294881850" duration="11172000" />
+      <workItem from="1692339413636" duration="26047000" />
+      <workItem from="1692771874848" duration="18872000" />
+      <workItem from="1692858068309" duration="22634000" />
+      <workItem from="1692901126572" duration="550000" />
+      <workItem from="1692906644991" duration="16583000" />
+      <workItem from="1692943850113" duration="26680000" />
+      <workItem from="1693064237281" duration="20924000" />
+      <workItem from="1693155906035" duration="7166000" />
+      <workItem from="1693206345715" duration="3223000" />
+      <workItem from="1693291753627" duration="693000" />
+      <workItem from="1693307424975" duration="30434000" />
+      <workItem from="1693461440368" duration="8488000" />
+      <workItem from="1693470303582" duration="18648000" />
+      <workItem from="1693547913198" duration="24019000" />
+      <workItem from="1693601525782" duration="1170000" />
+      <workItem from="1693810253217" duration="30364000" />
+      <workItem from="1693858578737" duration="120000" />
+      <workItem from="1693893087249" duration="29936000" />
+      <workItem from="1693992545198" duration="4290000" />
+      <workItem from="1694065755630" duration="3005000" />
+      <workItem from="1694075561493" duration="8000" />
+      <workItem from="1694156048797" duration="25261000" />
+      <workItem from="1694211457307" duration="929000" />
+      <workItem from="1694411559677" duration="26229000" />
+      <workItem from="1694768233092" duration="191000" />
+      <workItem from="1694768494347" duration="16913000" />
+      <workItem from="1694790879165" duration="2144000" />
+      <workItem from="1694973960796" duration="1218000" />
+      <workItem from="1695016720100" duration="100000" />
+      <workItem from="1695016843771" duration="11720000" />
+      <workItem from="1695032046031" duration="2301000" />
+      <workItem from="1695039752132" duration="1085000" />
+      <workItem from="1695041413727" duration="6038000" />
+      <workItem from="1695133327413" duration="670000" />
+      <workItem from="1695135761440" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
