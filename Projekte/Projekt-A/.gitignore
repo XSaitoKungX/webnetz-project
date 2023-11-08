@@ -1,0 +1,12 @@
+/tmp
+/.idea
+/web/uploads/*
+!/web/uploads/.gitkeep
+/logs/*
+!/logs/.htaccess
+/vendor/
+/*.code-workspace
+.env
+*.cache
+/plugins/*
+!/plugins/.gitkeep
